@@ -7,6 +7,8 @@ end
 
 gem 'rack-cors'
 gem 'rack-attack'
+gem 'devise'
+gem 'simple_token_authentication'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.6'
